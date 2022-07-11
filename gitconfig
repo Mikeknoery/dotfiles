@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mikeknoery@hotmail.fr
+	name = mike knoery
